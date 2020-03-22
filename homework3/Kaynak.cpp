@@ -54,6 +54,7 @@ long long iterativeFunction(int numberOfStones)
 
 	int i;
 
+	//for döngüsünü 1 taþ sayýsýndan baþlama ihtimalimize göre tasarlanmýþtýr 
 
 	if (numberOfStones >= 4)
 	{
